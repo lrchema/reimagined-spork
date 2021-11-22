@@ -1,5 +1,7 @@
 ## Reflective Writing - Hema
 
+This essay turned out much longer than I was expecting it to be, apologies.
+
 This module was far more challenging than the GES and GEH world music modules and that is probably my favourite thing about it. Ever since that one single afternoon's worth of playing the mbira several semesters ago, I was fascinated with the sound of it. You said at the end of last semester that the plan for this semester was mbira and djembe for the entire semester, and I was sold. 
 
 I was going to take world music as my elective for the semester, and also take databases to clear a computer science module requirement, but as it turned out, those two clashed pretty much exactly, and it was one or the other. Sure, computer science is my major, but I've spent months wanting to take world music, and databases was not a strict requirement, I just needed to take 4 MCs of any CS module. The decision was easy, I emailed and asked to drop databases (pun intended) and took computer graphics instead, which didn't clash with world music. 
