@@ -1,37 +1,94 @@
-## Welcome to GitHub Pages
+## Reflective Writing - Hema
 
-You can use the [editor on GitHub](https://github.com/lrchema/reimagined-spork/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This module was far more challenging than the GES and GEH world music modules and that is probably my favourite thing about it. Ever since that one single afternoon's worth of playing the mbira several semesters ago, I was fascinated with the sound of it. You said at the end of last semester that the plan for this semester was mbira and djembe for the entire semester, and I was sold. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I was going to take world music as my elective for the semester, and also take databases to clear a computer science module requirement, but as it turned out, those two clashed pretty much exactly, and it was one or the other. Sure, computer science is my major, but I've spent months wanting to take world music, and databases was not a strict requirement, I just needed to take 4 MCs of any CS module. The decision was easy, I emailed and asked to drop databases (pun intended) and took computer graphics instead, which didn't clash with world music. 
 
-### Markdown
+The only next hurdle was that my summer internship covered week 1 of the semester too, and I was really worried about falling behind, but the best thing about learning this semester was that there was no notation, everything was *points at note* "this one" or *demonstrates while I attempt to absorb by osmosis* "play like this", and I didn't have trouble catching back up. Of course, I had a huge advantage because I persuaded Janice to take the module with me, who did attend week 1 of classes and I did not have to be nervous about asking her for help because we were already friends.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The module description says a music background is not required to take world music, but I think I would not have had the patience to work myself up the musical learning curve if I did not already have experience doing so learning music. I already know that I can pick up what it "should" sound like quickly, but it takes me a much longer time to sound like that, there isn't a problem with my understanding, I just need to repeat it another 30-40 times or so, and knowing that about myself really gave me the patience to just try, screw up, repeat until it hurts and then take a break. 
 
-```markdown
-Syntax highlighted code block
+I am learning Carnatic singing, and while I do have notation sometimes, I've never learnt a song that followed the notation exactly. It's more of a vague guide to the shape of the phrase. Teachers only tell me the exact notes if I'm really not understanding the phrase, or, more recently at my skill level, they tell me to tell them what notes they're singing. More often, I just google the lyrics and then try to replicate what the teacher sings, after class look up a version on Youtube that seems closest to what the teacher taught, and practice with that. This learning style is the only one I can actually say I know, and it was comforting to learn this totally new type of music in the same way, like I had something familiar to hold on to. 
 
-# Header 1
-## Header 2
-### Header 3
+Djembe reminded me of the Rebana in the Malay music tutorial I took last semester, since that was also a drum played with the hands. That also had a deep sound when hitting in the middle, higher pitched sound at the edge and a slap, so the techniques were remarkably similar, and I feel like I got a slight head start, the basic building blocks were more or less already there, just needed slight adjustments. Okay to be fair also I took a Djembe class back when I was 10 in primary school, and they didn't let us try the slap because they didn't want us to hurt ourselves, but they taught us the vocable names of the 3 drum sounds Bom/Pe/Ka and reminded us that we Must Always Bounce and not drop our hand on the drum skin and leave it there because then the sound just dies. This module really reached in and yoinked out dusty old memories from the deeply buried vault in my brain. Djembe also reminded me of the Chinese drumming tutorial, because basically the only performance direction Mario gave was "louder", and this was the same thing, with Kelvin saying "play louder" and "put more effort into all of the strikes not just the first" and "start with more enthusiasm". I never took myself for someone who likes hitting things but I've never been so delighted to put everything I have into beating something up and making loud noises.
 
-- Bulleted
-- List
+Mbira was like nothing I've ever tried before, never met an instrument where nails are an advantage. I suppose the concept is a little bit like a piano since there's a left hand part and a right hand part, but I've never seen a piano piece that had the left hand in 4 time and the right in 3. The interlocking singing lines where people sing two different things at the same time and they somehow work together, that's a little bit like the Western call and response thing. It reminds me of the indie band The Amazing Devil, they have several songs that are duets and they separate and come together throughout the song. Probably the most prominent example is [Battle Cries](https://www.youtube.com/watch?v=3E3YltoDN00)
 
-1. Numbered
-2. List
+Before coming in to class, my main concern was the state of my nails. I've always cut my nails on the right hand down as short as they can go (and they can go pretty short, I'm a former nail biter.), and my left hand just barely longer for the sake of opening boxes or screws. I spent the summer growing my thumbs and right index nail out but my index fingernail was about as sturdy as soaking wet single-ply tissue, and that was...not ideal. 
 
-**Bold** and _Italic_ and `Code` text
+And then my first day in class my biggest worry changed, because most of the class are music majors, and I didn't know if I could keep up. Technically I am also a music student, but I am not...I don't know if there's a translation, but in Tamil we say "soaking" in music and having that constant familiarity with it. Not to be overly grade-chasing, I am here because I truly want to be, but unfortunately, grades still do matter overall. To my understanding, we're graded on the quality of our final performances as well as our performance in-class, and I was quite scared that I wouldn't be able to cope. Looking back now, I think I did cope decently well, I managed to catch up anytime I lagged a little by asking my seat neighbours, and rewatching the class videos was hugely helpful.
 
-[Link](url) and ![Image](src)
-```
+Near the start of the semester, in Djembe, all of us learnt just the rhythms with the different parts, and we got the opportunity to try all of the possible parts, like Djembe 1 and 2, and the 3 Dunun lines, for several different rhythms. I remember we learnt binary rhythms, and got a light introduction to ternary 1 and 2 rhythms. I know ternary 1 accents on beats 1 and 3, while ternary 2 accents on 1 and 2, but I keep mixing them up, because Kelvin said ternary 2 is harder, but Indian classical ternary rhythms accent on 1 and 2, so that's the most intuitive one for me, and my brain decided to make the connection that accent 1 and 2 is easier, and ternary 1 is easier therefore ternary 1 accents on 1 and 2. I really enjoyed listening to the ternary rhythms, because the odd number gave it that unique flavour that's instantly recognisable. As the final performance drew near, we started learning more performance aspects of the rhythms like breaks and solos for each, on top of the base rhythms. 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+In the final performance, we played Djole followed by Liberte, with Afiq keeping time while we transitioned. For Djole I played the accompanying Djembe part, and for Liberte I played the leading part. I really liked that Kelvin assigned us roles with rotations so that everyone got a chance to play leading, following and also signalling. Signalling to start, stop, or play a break was one thing I couldn't reliably do until about week 9 or 10. I didn't get where in the rhythm to place the signal, and I wasn't getting how the others put it in the right spot. For some time near the beginning I was so lost it felt almost arbitrary. It clicked for me when I didn't drum, I tried singing the rhythm so that I wasnt distracted by the technical aspect and counting on my fingers and it suddenly hit me and I could feel the pulse and the way it cycled, and the moment it clicked I couldn't un-see it, I just knew instinctually where it belonged. 
 
-### Jekyll Themes
+I also got the opportunity to give a short introduction in the beginning of the final performance, which was a solid learning opportunity, since I had to google the facts and history, and I had to be sure enough of the information to explain it in the start. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lrchema/reimagined-spork/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Slight tangent: my favourite memory of Djembe lessons was me enthusiastically volunteering to try the Dununba part for Liberte, struggling, and you signalling to me from across to room to use my wrist and not my elbow, it'll be easier, and finally getting it. 
 
-### Support or Contact
+Mbira lessons were quite different, almost every lesson I would know what to do because you taught it, and I recorded it, but I didn't have the coordination to do it, and I always felt like my product at the end of the 2 hours was incomplete, and I'd try again at home the same day. Usually it'd still be incomplete then, but I would somehow bring it to a decent level by Thursday night before class. Through the week, I would text Janice and we would talk about our practicing and explain things to each other when we were stuck. She posted this status when we were struggling to find the beat in Nhema Musasa, and it apparently bewildered her friends who didn't know the context. 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<img width="230" alt="Screenshot_2021-11-21_at_3 20 00_PM" src="https://user-images.githubusercontent.com/13196618/142850798-44a7e973-6e66-4fad-a1bc-17fa30e802be.png">
+
+
+Even when you showed how to use the "gorende" singing line to find the beat, it took a while before I could even hear where it was, and I only started getting it when I watched you demonstrate where it was. I typed this message out to explain to Janice where gorende was:
+
+<img width="327" alt="Screenshot 2021-11-21 at 3 22 43 PM" src="https://user-images.githubusercontent.com/13196618/142850034-ce554d4c-000a-4d0f-b91c-3478b80e7306.png">
+
+I'm probably biased because of my instrument, but my favourite part of Mbira lessons was learning the singing lines. I've never sung while playing an instrument, and it was quite a challenge, but it was fantastic. The strategy I found most effective was tap my foot while singing alone, and tap my foot while playing alone, and then since the tapping is common, tap my foot while playing and singing. I recorded some videos of myself practicing playing while singing just to see if I could do it, and I'll insert some of them here: 
+
+
+https://user-images.githubusercontent.com/13196618/142858466-71a1de72-ef25-4d09-b3aa-c9194ac0d2de.mp4
+
+Above I'm trying the singing line that Eugene ran out of time to teach, so he just demonstrated it, and you told me that it starts just after the 3rd note of each phrase, and then it took me 48 hours to figure it out.
+
+
+
+https://user-images.githubusercontent.com/13196618/142859054-b44ecc45-3611-4bc0-94b8-8ae9aed3976b.mp4
+
+
+In this video I'm attempting the interlocking singing lines in Nhema musasa, but as you can see, the results are...not ideal
+
+
+
+https://user-images.githubusercontent.com/13196618/142860602-074defb1-57ad-463a-a6d3-0fef3b096a33.mp4
+
+
+This video was recorded to show my teammates to decide which octave the singing lines of Dande should be sung in, so I tried both lower and higher octaves for all the lines that I could reach both octaves. It was recorded during Reading week, i.e. very late in the semester, and I can definitely hear the difference in my confidence level, I clearly miss a few notes while playing (most audible at 1:35 or so), but I managed to keep time and join back in.
+
+
+The tuning versus my vocal range was a little frustrating, it felt everything was either too high or too low. While practicing together for our final performance recording, I tried singing one of the singing lines in Kariga Mombe an octave higher than I had practiced, and at first I thought it was too high and I couldn't do it, but I tried putting more muscle into it, and while the volume slowly climbed I did hit the notes, I thought it was too much/too aggressive, but Linnet was giving me an enthusiastic thumbs up, so I kept it, and there's a part in the final video where you can see the muscles in my neck doing their absolute best during that line:
+
+![photo_2021-11-22 19 02 36](https://user-images.githubusercontent.com/13196618/142850496-d9edfe40-1c01-4d51-9e92-d554e60ba521.jpeg)
+
+
+Speaking of the final performance, in Mbira we got to break up into smaller teams and pick 2 pieces to perform. In my team I had Raaj, Linnet, Janice and Raychie with me, and we decided on playing Dande and Kariga Mombe. On recording day, I truly thought I had over-packed my bag, with laptop, mic, adapter, charger, extension cord, spare nails, tape, scissors and oreos, but surprisingly, the only thing that didn't get used was the oreos. We spent some time deciding who would play which parts (kushaura/leading and kutsinhira/following), and which singing lines we would do in which order, before starting to record. It took a few takes for each piece, but I really think we improved so much from the first lesson. I couldn't even play a full cycle without messing it up at first, but for the final performance we were all playing continuously for several minutes at a time. In Mbira we also switched roles around so that we got the opportunity to try playing different parts. I played kutsinhira for Kariga Mombe and kushaura for Dande. I'm really very proud of the final performance video, I never thought I could learn a new instrument and perform it in 3 months. Only thing is I feel like I could only hear my own voice when singing, even when I was sitting far away from the mic, but I can't help it, I was born already loud and then I got vocal training :P
+
+I think the only real difficulty I can say I faced in this semester was purely physical. I've never seriously played a drum, so two straight hours of djembe left my hands and also arms a little bit very aching, and I felt the same sensation the harpists Nigel and Madelaine described, that numbness and sluggishness in my fingers. After one of the lessons I noticed that my fingers were swollen, and I had to use an ice pack to soothe my hands. I think I was playing conga that time, and was told to play louder because it couldn't be heard over the Djembes, and I might have overdone it in my enthusiasm, and didn't notice until later. 
+
+![20211026_141939](https://user-images.githubusercontent.com/13196618/142849744-e0d84d62-dbd5-43fd-9c22-58f0b6725c4e.jpg)
+
+my swollen fingers :(
+
+But really, there's no way to overcome this difficulty except to continue, endure, and eventually build up strength and a tolerance, which is what happened. Funny story, a couple of weeks ago I did some of the exercise machines near my home, and I usually do as many reps as I can until I get tired, but I just...wasn't getting tired, because my arms had built up some muscle. Also earlier today I was mopping the house and proceeded to snap the pole in two because I was too forceful with it. I am delighted by the idea that I hulked out thanks to Djembe, and I'm tempted to continue learning Djembe if this is the effect :D
+![photo_2021-11-22 18 57 12](https://user-images.githubusercontent.com/13196618/142849600-0b662f8e-c414-454b-9187-9f9660661f64.jpeg)
+
+The physical difficulty in Mbira was my aforementioned very soft, feeble, misshapen fingernails. After attending the first Mbira lesson it became abundantly clear that my natural nails weren't going to cut it, and you said to try fake nails. Same day, I went and bought myself fake nails and glued them on, and that immediately solved the problem, since the plastic was a little sturdier, and even if it wasn't, it wasn't mine so it didn't hurt, I could just switch it for a new one. 
+
+![photo_2021-11-22 18 13 49](https://user-images.githubusercontent.com/13196618/142843394-89fa91fc-fa67-4f2f-8def-2c61df72a360.jpeg)
+
+above: a small subset of the nails I went through
+
+I said those were my only "real" difficulties, because the other thing is just the steep learning curve, especially in Mbira, and as a music student, I don't know if I deserve to call that a difficulty, because I know that it's solved with practice, and it was. This practice is very much accessible too, since you let us take an instrument home to play. There's a popular music youtube channel called TwosetViolin, and a running joke-but-not-really on their channel is about a mythical prodigy named LingLing, who practices 40 hours a day; it seems like good advice :)
+
+Side note, I really liked how you told us to practice putting left and right hands in Dande together. You said to first play one note, and celebrate because we got that note right, then play the first and second notes, and celebrate again, etc. and I'd like to let you know that the method definitely worked and by the time I recorded our final performance, Dande was basically muscle memory.
+
+I noticed that African music seems to have a heavy emphasis on rhythms, and especially after Djembe, I've gotten more awareness of the rhythm in a piece and I've started to hear the rhythms more in other music as well. Recently I managed to identify the time signature of a song that my dad was listening to with headphones, just from the faint "ch-ch" noises that were audible, and I've caught myself subconsciously tapping out the rhythm of songs even when I'm not listening. Also, as I shared during class, I was doing a freelance video editing job that involved splicing together several clips to make an event teaser, set to some background music the client provided, and previously, I would have just put the clips together and put music, added some transitions, called it a day. But suddenly I cared about the way the audio related to the visuals, and I made the clips change on the beat of the music, and the client thought it was a really good value addition. 
+
+Another thing I learnt is about the importance of learning a piece as music, and not just as notes. You taught the notes for the kutsinhira in Nhema musasa, and then also wrote down how the left and right hands interlock, but when I tried following that I absolutely didn't understand it in the least. I happened to be sitting beside Karen that lesson, and when I glanced over she was just...playing it?! I asked her how and she said oh they just work together I don't know, and I spent the rest of the week trying to find out how they fit together, and I suddenly understood it. There's a sweet spot in between "This is the notation and you have to follow it" and "Know the piece, Become the piece", and trying to think of it as two phrases that interlock was far more beneficial than knowing the exact notes. 
+
+The third takeaway is something I guess I kind of knew, but this module really emphasized it. It's that a music performance doesn't have to be majestic and hype and have a huge buildup and climax, something simple, delivered with enthusiasm and passion is also beautiful. The music we learnt this semester is cyclic and that constant repetition of a short cycle is deeply soothing and meditative. Even though we planned for the final performances, we weren't actually counting or being very precise with it. Most steps of the plan were described as "start when you're ready" or "move on when you're bored", and it's odd how well we learnt to communicate entire paragraphs in head nods and eye contact. 
+
+I said at the start that my favourite thing about this module is how challenging it was. Well, my second favourite thing is that it has 2 module codes, and my third favourite thing is that it doesn't clash with the CS module I plan to take next semester, so I'll be there :D
+
+Thank you for this semester, I had a wonderful experience.
