@@ -84,7 +84,6 @@ The last piece we learnt on Balinese Gamelan was Beleganjur, another processiona
 https://user-images.githubusercontent.com/13196618/164422821-568a82d6-0b15-4225-b7d4-5f3efebf9e91.mp4
 
 
-
 Speaking of the final performance, you gave me the opportunity to emcee, again, but this time with an audience. This was one of the scary bits of the performance, because I've never actually done any emceeing before, and really wanted to make it engaging and interesting, do the job justice even if it isn't as important as the actual pieces. What if I forgot my script? What if they didn't think I was funny? I have no words for how much of a relief it was to hear a few laughs among the audience, because it meant I hadn't wildly miscalculated anything. Also preparing that script was when I found out that the final performance was like a bit of a farewell for you. Syaf pulled me aside and asked me to tell the group chat and organise something, and that something ended up being a card and flowers. 
 
 Janice at this time had COVID and was stuck at home, bored, which resulted in this reaction:
@@ -100,10 +99,13 @@ And then she was incredibly eager to test negative and go out, and her hopes wer
 
 She did eventually exit the naughty corner and I made her walk all over the mall to find a nice card for you :D
 
-And here are the flowers I ordered and picked up, day of the final performance. I just had the don't be suspicious song ([here's the link, please watch it, you will not be disappointed](https://www.youtube.com/watch?v=TyEBeHvNJvE)) running on loop through my head the entire time, and I had a complete backstory and lies prepared to tell you about why I was showing up late to class on the day of the performance. Since I didn't get to fully use it, I will explain it here:
+And here are the flowers I ordered and picked up, day of the final performance. 
+
 <img width="325" alt="dontBeSus" src="https://user-images.githubusercontent.com/13196618/164413667-1dc470bd-8e5f-485b-826c-fd7099e65d70.png">
 
-  So I'm sitting at the cafe with my laptop open to look like I am working really hard, and if anyone asks I am memorizing my emcee script (which I had already done, I am far too anxious to be doing that day of), and the laptop is conveniently blocking the card and pens on the table, and I am texting people to come sign it, then once everybody is done I will turn up to class and say I was memorizing my script (which I did tell you)
+I just had the don't be suspicious song ([here's the link, please watch it, you will not be disappointed](https://www.youtube.com/watch?v=TyEBeHvNJvE)) running on loop through my head the entire time, and I had a complete backstory and lies prepared to tell you about why I was showing up late to class on the day of the performance. Since I didn't get to fully use it, I will explain it here:
+
+So I'm sitting at the cafe with my laptop open to look like I am working really hard, and if anyone asks I am memorizing my emcee script (which I had already done, I am far too anxious to be doing that day of), and the laptop is conveniently blocking the card and pens on the table, and I am texting people to come sign it, then once everybody is done I will turn up to class and say I was memorizing my script (which I did tell you)
 
 It's been a long time since I've performed in front of an audience, and longer still since I've done it in a group. I guess the main thing I learnt is to know my own parts very well and know how it slots into the rest of the piece, because if I mess up I cannot adjust, since I need to follow the movement of everybody else. If just one person makes a mistake when everybody else is playing correctly, it's glaringly obvious. 
 
@@ -111,4 +113,6 @@ Another learning point is the importance of eye contact. Especially in Balinese 
 
 And the last takeaway is the importance of sound quality. We spent the semester practicing in the carpeted, enclosed workshop and thinking we were rather loud. But it had nothing on how incredible the acoustics were in the foyer and on the way there, with the high ceilings and concrete and glass and metal. The building was SHAKING and the sounds filled my ears and it was such an incredible, unforgettable experience. The recording is great, almost but still nowhere near the experience of it in person.
 
-Also, I really enjoyed rooting through your bag of stuff that you didn't need anymore, the [kazoo is an absolute goldmine of fun](https://youtu.be/AWXR5WEZ19g). Also the marbles make very pleasant clicking sounds, and they're very nice to hold and play with. Thanks for a fantastic final semester of uni, and best of luck for the future!
+Also, I really enjoyed rooting through your bag of stuff that you didn't need anymore, the [kazoo is an absolute goldmine of fun](https://youtu.be/AWXR5WEZ19g). Also the marbles make very pleasant clicking sounds, and they're very nice to hold and play with. 
+
+Thanks for a fantastic final semester of uni and also all the previous semesters, and best of luck for the future!
