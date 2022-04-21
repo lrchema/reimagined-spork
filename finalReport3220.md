@@ -89,7 +89,8 @@ Speaking of the final performance, you gave me the opportunity to emcee, again, 
 
 Janice at this time had COVID and was stuck at home, bored, which resulted in this reaction:
 
-<img width="883" alt="hotTea" src="https://user-images.githubusercontent.com/13196618/164414655-6c5722a2-a143-443d-985b-ec16d35b8e36.png">
+<img width="883" alt="hotTea" src="https://user-images.githubusercontent.com/13196618/164423922-f1c04b62-6f4c-4479-9063-221ecab9f789.png">
+
 
 And then she was incredibly eager to test negative and go out, and her hopes were dashed cruelly by the ART kit:
 
