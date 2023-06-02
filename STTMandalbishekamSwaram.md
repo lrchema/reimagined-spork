@@ -4,11 +4,11 @@
 
 1. **Maha Ganapathim - Chathusra Eka - Nattai - Hr, S**
 2. **Ododi Vanthen - Adi - Dharmavathi - Hr**
-3. **Govardhana Girisham - Rupakam - Hindolam - S**
-4. **Parvathi Nayakane - Adi - Shanmugapriya - Hr**
-5. Adikondar - Adi - Mayamalavagowlai - Hr
-6. Arumugam - Kanda Nadai - Senchurutti - S
-7. Yenna Thavam - Adi - Kaapi - S
+3. Yenna Thavam - Adi - Kaapi - S
+4. Adikondar - Adi - Mayamalavagowlai - Hr
+5. **Govardhana Girisham - Rupakam - Hindolam - S**
+6. **Parvathi Nayakane - Adi - Shanmugapriya - Hr**
+7. Arumugam - Kanda Nadai - Senchurutti - S
 8. Azhagana Pazhani Malai - Adi - Brindavani - Hr, S
 
 # July 10 Performance
