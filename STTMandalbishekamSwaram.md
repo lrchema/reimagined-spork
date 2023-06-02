@@ -24,7 +24,7 @@
 7. Ennanna Vilaiyadal - Kanda Chapu/Nadai - Ragamalika - T
 8. Ramanai Bhajithal - Adi - Maand - H
 9. Kaana Ayiram Kan - Adi - Abheri - T
-10.Valli Kanavan - Adi - Senchurutti - T, H, S 
+10. Valli Kanavan - Adi - Senchurutti - T, H, S
 
 # Swaram References
 
