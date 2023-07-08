@@ -16,13 +16,13 @@
 ## Songs List (Those with Swaram are Bolded)
 
 1. Bomma Bomma Tha - Adi - Senchurutti - 2m 40s
-2. Kandha Kumara - Adi - Neelamani - 
-3. Maadu Meikkum - Adi - Senchurutti
-4. **Saravana Bhava - Adi - Pasupathipriya - T, H, S**
+2. Kandha Kumara - Adi - Neelamani - 2m
+3. Maadu Meikkum - Adi - Senchurutti - 4m 50s
+4. **Saravana Bhava - Adi - Pasupathipriya - T, H, S - 5m 34s** 
+6. Koovi Azhaithal - Adi - Valaji - V - 3m 45s
 5. Devi Neeye - Adi - Keeravani - T
-6. Koovi Azhaithal - Adi - Valaji - V
+8. Ramanai Bhajithal - Adi - Maand - H - 5m 50s
 7. Ennanna Vilaiyadal - Kanda Chapu/Nadai - Ragamalika - T
-8. Ramanai Bhajithal - Adi - Maand - H
 9. Kaana Ayiram Kan - Adi - Abheri - T
 10. Valli Kanavan - Adi - Senchurutti - T, H, S
 
