@@ -15,8 +15,8 @@
 
 ## Songs List (Those with Swaram are Bolded)
 
-1. Bomma Bomma Tha - Adi - TBC - 2m 40s
-2. Kandha Kumara - Adi - TBC - 
+1. Bomma Bomma Tha - Adi - Senchurutti - 2m 40s
+2. Kandha Kumara - Adi - Neelamani - 
 3. Maadu Meikkum - Adi - Senchurutti
 4. **Saravana Bhava - Adi - Pasupathipriya - T, H, S**
 5. Devi Neeye - Adi - Keeravani - T
